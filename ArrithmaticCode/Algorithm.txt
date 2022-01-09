@@ -1,0 +1,13 @@
+Step 1 - Get User input for A B and C
+Step 2- Write the array to get A B and C values
+Step 3- Write the arrithmatic expression to perform A+B*C
+Step 4- Show the outpur of expression
+Step 5- Write the arrithmatic expression to perform A*B+C
+Step 6- Show the outpur of expression 
+Step 7- Write the arrithmatic expression to perform C+A/B
+Step 8- Show the outpur of expression
+Step 9- Write the arrithmatic expression to perform A%B+C
+Step 10- Show the outpur of expression
+Step 11- Get the Expressions output in array
+Step 12- Use the if else statement to sort the results in descending order
+Step 13 - Use the if else statement to sort the results in Ascending order
